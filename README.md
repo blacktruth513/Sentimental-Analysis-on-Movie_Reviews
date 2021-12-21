@@ -13,7 +13,12 @@
 <P>
 <div align="center"><IMG src='https://user-images.githubusercontent.com/78430460/146902418-8c87b6c9-f625-4565-b4df-b582abc95346.png' height=40% width=40%></div> </P>
 
-豆瓣电影은 중국의 영화 종합 사이트로서, 해당 사이트에서 가공한 약 210만 개의 영화 리뷰, 평점 데이터로 구성된 캐글 출처 데이터를 사용하여 이번 섹션에서 배운 딥러닝 개념을 적용하여 일반적으로 쓰이는 영어 데이터가 아닌 중국어 데이터를 활용한 프로젝트를 수행함으로서, NLP(자연어 처리) 모델에 대한 이해를 확장시키는데 그 목적이 있다. 
- 
+豆瓣电影은 중국의 영화 종합 사이트로서, 해당 사이트에서 가공한 약 210만 개의 영화 리뷰, 평점 데이터로 구성된 캐글 출처 데이터를 사용하여 일반적으로 쓰이는 영어 데이터가 아닌 중국어 데이터를 활용한 NLP 프로젝트를 수행함으로서, NLP(자연어 처리) 모델에 대한 이해를 확장시키는데 그 목적이 있다. 
   
- 데이터 출처 : https://www.kaggle.com/utmhikari/doubanmovieshortcomments
+데이터 출처 : https://www.kaggle.com/utmhikari/doubanmovieshortcomments
+ 
+## 4. 프로젝트 분석 방법
+
+<IMG src='https://user-images.githubusercontent.com/78430460/146906746-f04c86e2-ebf6-466c-92dc-40354793a46d.png' height=40% width=40%>
+
+
